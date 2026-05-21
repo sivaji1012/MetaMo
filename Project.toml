@@ -1,0 +1,14 @@
+name = "MetaMo"
+uuid = "me000001-0000-4000-8000-000000000001"
+version = "0.1.0"
+authors = ["PRIMUS Team"]
+
+[deps]
+MeTTaCore = "c0e00000-0000-4000-8000-000000000001"
+
+[compat]
+MeTTaCore = "0.1"
+julia     = "1.12"
+
+[sources]
+MeTTaCore = {url = "https://github.com/sivaji1012/Core"}
